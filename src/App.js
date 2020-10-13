@@ -9,7 +9,6 @@ import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
 
 // BUG SignUp link dont work in desctop mode
-// BUG Home buttons same style
 
 function App() {
   return (

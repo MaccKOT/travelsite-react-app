@@ -10,14 +10,14 @@ function HeroSection() {
       <div className="hero-btns">
         <Button
           className="btns"
-          buttonsStyle="btn--outline"
+          buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
           GET STARTED
         </Button>
         <Button
           className="btns"
-          buttonsStyle="btn--primary"
+          buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
           WATCH TRAILER <i className="far fa-play-circle" />
