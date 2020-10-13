@@ -69,11 +69,7 @@ function Navbar() {
             </li>
           </ul>
           {button && (
-            <Link
-              to="/signup"
-              buttonStyle="btn--outline"
-              style={{ textDecoration: 'none' }}
-            >
+            <Link to="/signup" style={{ textDecoration: 'none' }}>
               <div className="signup-btn">SIGN UP</div>
             </Link>
           )}

@@ -1,6 +1,7 @@
 # React Website Tutorial - React JS Project Fully Responsive
 
 [Original tutorial](https://www.youtube.com/watch?v=I2UBjN5ER4s) by Brian Design
+[Original github repo](https://github.com/briancodex/react-website-v1/tree/master)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
